@@ -34,4 +34,5 @@ _This is the first bluetooth related project I have done_
 _It consists of a simple connection between 2 esp32 boards in which the transmitter has a push button and the receiver lights a LED when it receives the signal_
 
 _SCHEMATIC:_
+![esquematico](https://github.com/user-attachments/assets/1a95a370-3b48-4a19-a156-b21e937d9798)
 
