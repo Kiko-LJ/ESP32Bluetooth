@@ -27,3 +27,11 @@ https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32
 * Go to **Tools > Board > esp32** and select **ESP32 Dev Module** (or the specific version you are using)
 * Go to **Tools > Port** and select the port that corresponds to your ESP32 (normally **COM3** or **COM4**)
 
+## Pushbutton - LED Project 🚀
+
+_This is the first bluetooth related project I have done_
+
+_It consists of a simple connection between 2 esp32 boards in which the transmitter has a push button and the receiver lights a LED when it receives the signal_
+
+_SCHEMATIC:_
+
